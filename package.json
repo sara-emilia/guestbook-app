@@ -1,8 +1,16 @@
 {
-  "dependencies": {
+  "name": "guestbook-app",
+  "version": "1.0.0",
+  "description": "Guestbook application",
+  "main": "guestbook.js",
+  "scripts" {
+    "test": "echo \"Error: no test specified\" && exit 1,
+    "start": "node guestbook.js
+  },
+  "dependencies": [
     "express": "^4.17.3",
     "body-parser": "^1.19.2"
-  }
-  "name": "guestbook-app",
-  "main": "src/guestbook.js"
+  ],
+  "author": "Emilia",
+  "licence": "ISC"
 }
