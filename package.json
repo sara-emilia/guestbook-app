@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Guestbook application",
   "main": "guestbook.js",
-  "scripts" {
+  "scripts:" {
     "start": "node guestbook.js"
   },
   "dependencies": {
