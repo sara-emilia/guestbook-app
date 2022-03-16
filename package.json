@@ -4,13 +4,13 @@
   "description": "Guestbook application",
   "main": "guestbook.js",
   "scripts" {
-    "test": "echo \"Error: no test specified\" && exit 1,
-    "start": "node guestbook.js
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node guestbook.js"
   },
-  "dependencies": [
+  "dependencies": {
     "express": "^4.17.3",
     "body-parser": "^1.19.2"
-  ],
+  },
   "author": "Emilia",
   "licence": "ISC"
 }
